@@ -1,51 +1,27 @@
 {
   "posts": [
     {
-      "name": "modificat!",
-      "id": 1
+      "id": 1,
+      "title": "Docker tutorial",
+      "description": "this is a docker..."
     },
     {
-      "name": "modificat!",
+      "title": "nou title",
       "id": 2
     },
     {
-      "id": 3,
-      "name": "post333"
+      "title": "nou title",
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "post44"
+      "title": "foo",
+      "description": "bar",
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "post"
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "name": "post",
-      "id": 11
-    },
-    {
-      "name": "post",
-      "id": 12
+      "title": "foo",
+      "description": "bar",
+      "id": 5
     }
-  ],
-  "comments": [],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

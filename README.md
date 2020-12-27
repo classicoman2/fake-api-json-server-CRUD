@@ -6,9 +6,9 @@ Instal·la  [json-server](https://github.com/typicode/json-server) com a devDepe
 
     npm i --save-dev json-server
 
-## Executar json-server
+## Executar json-server (en mode interactiu)
 
-    node server
+    nodemon server
 
 ## Cridades REST
 
@@ -24,4 +24,4 @@ Instal·la  [json-server](https://github.com/typicode/json-server) com a devDepe
 
 ## Més
 
-- [Tutorialde l'extensió REST Client, bastant complet](https://www.youtube.com/watch?v=3QLcHjNp-08) (en castellà)
+- [Tutorial de l'extensió REST Client, bastant complet](https://www.youtube.com/watch?v=3QLcHjNp-08) (en castellà)
