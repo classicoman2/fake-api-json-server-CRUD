@@ -2,26 +2,21 @@
 
 Un fake rest server local amb cridades de prova per CRUD
 
-Instal·la  [json-server](https://github.com/typicode/json-server) com a devDependency amb:
+Instal·la packages amb:
+```bash
+    $ npm i
+```
 
-    npm i --save-dev json-server
+## Executar json-server (en mode dev)
+```
+    $ npm run dev
+```
 
-## Executar json-server (en mode interactiu)
+## CRUD
+> La documentació del package `json-server` [disponible aqui](https://github.com/typicode/json-server)
+> Les Requests CRUD vistes a classe estan disponibles [aqui](https://jsonplaceholder.typicode.com/guide/)
 
-    nodemon server
-
-## Cridades REST
-
-> La documentació de `json-server` [disponible aqui, al README](https://github.com/typicode/json-server)
-
-> Les Requests CRUD estan disponibles [aqui](https://jsonplaceholder.typicode.com/guide/)
-
-## REST API des de local /(no POSTMAN, etc..)
-
-- Emprar l'extensió de Vscode [REST CLIENT](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-- Exemples disponibles al fitxer `cridades.rest`
-
-
-## Més
-
-- [Tutorial de l'extensió REST Client, bastant complet](https://www.youtube.com/watch?v=3QLcHjNp-08) (en castellà)
+## Extra: Extensió REST CLIENT de VScode
+- Descarregar [aqui](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- Exemples a `cridades.rest`
+- [Tutorial extensió REST Client (spanish)](https://www.youtube.com/watch?v=3QLcHjNp-08)

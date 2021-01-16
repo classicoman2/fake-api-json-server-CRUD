@@ -2,26 +2,53 @@
   "posts": [
     {
       "id": 1,
-      "title": "Docker tutorial",
-      "description": "this is a docker..."
+      "title": "This is a post",
+      "description": "Today I'll talk about..."
     },
     {
-      "title": "nou title",
-      "id": 2
+      "id": 2,
+      "title": "Post 2",
+      "description": "In the world..."
     },
     {
-      "title": "nou title",
-      "id": 3
+      "id": 3,
+      "title": "Post 3",
+      "description": "foo bar..."
     },
     {
-      "title": "foo",
-      "description": "bar",
-      "id": 4
-    },
-    {
-      "title": "foo",
-      "description": "bar",
+      "title": "Post updated",
+      "description": "You updated this post using a PUT HTTP Request",
       "id": 5
+    },
+    {
+      "title": "New post",
+      "description": "new new new new...",
+      "id": 6
+    },
+    {
+      "title": "New post",
+      "description": "new new new new...",
+      "id": 7
+    },
+    {
+      "title": "New post",
+      "description": "new new new new...",
+      "id": 9
+    },
+    {
+      "title": "New post",
+      "description": "new new new new...",
+      "id": 10
+    },
+    {
+      "title": "New post",
+      "description": "new new new new...",
+      "id": 11
+    },
+    {
+      "title": "New post",
+      "description": "new new new new...",
+      "id": 12
     }
   ]
 }
