@@ -55,6 +55,28 @@
       "msg": "hola",
       "temps": "fa fred",
       "id": 13
+    },
+    {
+      "msg": "WEDNESDAY",
+      "description": "miercoles",
+      "day": 3,
+      "id": 14
+    },
+    {
+      "title": "Avui es DIMECRES",
+      "contents": "CLASSE DWEC - DIMECRES",
+      "id": 15
+    },
+    {
+      "title": "Avui es DIMECRES",
+      "contents": "CLASSE DWEC - DIMECRES",
+      "id": 16
+    }
+  ],
+  "personatges": [
+    {
+      "id": 1,
+      "nom": "Tomeu"
     }
   ]
 }
